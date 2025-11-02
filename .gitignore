@@ -1,0 +1,39 @@
+# --- Python cache and compiled files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+# --- IDE and editor settings ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Jupyter checkpoints ---
+.ipynb_checkpoints/
+
+# --- OS-generated files ---
+.DS_Store
+Thumbs.db
+
+# --- ETL data directories ---
+raw/
+transformed/
+data/
+
+# --- Temporary and backup files ---
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# --- Logs and reports ---
+logs/
+*.log
