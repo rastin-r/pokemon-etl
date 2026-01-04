@@ -1,3 +1,6 @@
+# NOTE
+There will soon be a major update to this project that will be more sophisticated
+
 # Pokémon ETL Pipeline
 
 This project is a simple ETL (Extract, Transform, Load) pipeline that retrieves data from the [PokéAPI](pokeapi.co), processes it into structured tables, and saves the results as CSV files.
