@@ -163,7 +163,7 @@ The two tables are connected:
 - Each Pokémon species has one primary habitat
 - Each habitat can have many Pokémon species
 
-![Displays the tables Pokémon and Habitat](/docs/images/tables.drawio.svg)
+![Displays the tables Pokémon and Habitat](/docs/images/tables.svg)
 
 ## How to Use the Data
 
