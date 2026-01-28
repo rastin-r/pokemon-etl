@@ -220,5 +220,5 @@ GROUP BY h.habitat_name;
 
 ## Disclaimer
 
-AI was used for writing the README.md and cleaning up the code but the logic was implemented by me :)
+AI was used for writing the README.md, .gitignore, cleaning up the code etc. but the logic of the program was implemented by me :)
 
